@@ -1,0 +1,40 @@
+{
+    "nombre": "Brigitte",
+    "apellido": "Torres Pinedo",
+    "email": "brigitte@gmail.com",
+    "telefono": "9854567890",
+    "direccion": "123 Calle Principal, Lima",
+    "saldo": 5000.00,
+    "ultimas_transacciones": [
+        {
+            "id": 1,
+            "monto": 100.00,
+            "fecha": "2023-10-01",
+            "codigo": "TRN123"
+        },
+        {
+            "id": 2,
+            "monto": 250.00,
+            "fecha": "2023-09-20",
+            "codigo": "TRN456"
+        },
+        {
+            "id": 3,
+            "monto": 200.00,
+            "fecha": "2023-09-10",
+            "codigo": "TRN789"
+        },
+        {
+            "id": 4,
+            "monto": 300.00,
+            "fecha": "2023-08-30",
+            "codigo": "TRN987"
+        },
+        {
+            "id": 5,
+            "monto": 150.00,
+            "fecha": "2023-08-15",
+            "codigo": "TRN654"
+        }
+    ]
+}

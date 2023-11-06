@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #36a3df;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#cliente {
+    background-color: #a1d0ef;
+    border: 1px solid #fffcfc;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#cliente label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #4ebbd6;
+}
+
+ul#transactiones {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul#transactiones li {
+    background-color: #fff;
+    border: 1px solid #8cebf1;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+ul#transactiones li h3 {
+    color: #007BFF;
+}
+
+ul#transactiones li p {
+    color: #333;
+}
+
